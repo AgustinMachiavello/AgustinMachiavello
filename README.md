@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+<details>
+  <summary>🐷 🖥️ Top languages 🖥️ 🐷</summary>
+  <br>
+  
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinMachiavello&layout=compact&theme=dark)](https://github.com/AgustinMachiavello/github-readme-stats)
+</details>
 <!--
 **AgustinMachiavello/AgustinMachiavello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
